@@ -1,0 +1,10 @@
+{
+  "configurations": [
+    {
+      "type": "java",
+      "name": "CodeLens (Launch) - BuilderFacetsDemo",
+      "request": "launch",
+      "mainClass": "com.pisoms.facets.BuilderFacetsDemo"
+    }
+  ]
+}
